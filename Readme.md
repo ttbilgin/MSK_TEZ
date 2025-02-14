@@ -59,4 +59,6 @@ Progressive complexity in code attempts (from simple prints to loops with condit
 
 
 
-# Would you like me to create a visualization of any particular aspect of this analysis, such as the action distribution over time or the error patterns?
+## Would you like me to create a visualization of any particular aspect of this analysis, such as the action distribution over time or the error patterns?
+
+  This dataset is gathered from a Python editor. How can I find out if the student has a talent for coding or not? Or Can I find that?
