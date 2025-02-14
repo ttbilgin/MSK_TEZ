@@ -1,0 +1,382 @@
+[
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:41:51.686",
+    "action": "Eylem: Aç",
+    "totalchars": 32,
+    "totallines": 2,
+    "file": "C:/Users/BIDB/Documents/PynarKutu/hhhhhh.py"
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:42:00.266",
+    "action": "Basılan Tuş: ENTER",
+    "totalchars": 38,
+    "totallines": 3
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:42:01.155",
+    "action": "Basılan Tuş: p",
+    "totalchars": 39,
+    "totallines": 3
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:42:01.349",
+    "action": "Basılan Tuş: r",
+    "totalchars": 40,
+    "totallines": 3
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:42:02.504",
+    "action": "Basılan Tuş: DOWN",
+    "totalchars": 40,
+    "totallines": 3
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:42:03.702",
+    "action": "Basılan Tuş: UP",
+    "totalchars": 40,
+    "totallines": 3
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:42:04.386",
+    "action": "Autocomplete: print ",
+    "totalchars": 40,
+    "totallines": 3
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:42:04.390",
+    "action": "Basılan Tuş: ENTER",
+    "totalchars": 43,
+    "totallines": 3
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:42:05.658",
+    "action": "Basılan Tuş: (",
+    "totalchars": 45,
+    "totallines": 3
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:42:08.184",
+    "action": "Basılan Tuş: DELETE",
+    "totalchars": 44,
+    "totallines": 3
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:42:09.038",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 43,
+    "totallines": 3
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:42:09.204",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 42,
+    "totallines": 3
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:42:09.361",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 41,
+    "totallines": 3
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:42:09.508",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 40,
+    "totallines": 3
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:42:09.638",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 39,
+    "totallines": 3
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:42:09.776",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 38,
+    "totallines": 3
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:42:09.927",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 34,
+    "totallines": 3
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:42:10.061",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 32,
+    "totallines": 2
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:43:18.083",
+    "action": "Solmenü_Tıkla: Değişkenler",
+    "totalchars": 32,
+    "totallines": 2
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:43:18.812",
+    "action": "Solmenü_Tıkla: Değişkenler",
+    "totalchars": 32,
+    "totallines": 2
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:43:19.450",
+    "action": "Solmenü_Tıkla: Veri Tipleri",
+    "totalchars": 32,
+    "totallines": 2
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:43:20.005",
+    "action": "Solmenü_Tıkla: Veri Tipleri",
+    "totalchars": 32,
+    "totallines": 2
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:43:20.614",
+    "action": "Solmenü_Tıkla: Operatörler",
+    "totalchars": 32,
+    "totallines": 2
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:43:21.299",
+    "action": "Solmenü_Tıkla: Operatörler",
+    "totalchars": 32,
+    "totallines": 2
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:43:21.996",
+    "action": "Solmenü_Tıkla: Değişkenler",
+    "totalchars": 32,
+    "totallines": 2
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:43:23.182",
+    "action": "Solmenü_Tıkla: Operatörler",
+    "totalchars": 32,
+    "totallines": 2
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:43:23.753",
+    "action": "Solmenü_Tıkla: Koşullu ve  Mantıksal  İfadeler",
+    "totalchars": 32,
+    "totallines": 2
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:43:28.135",
+    "action": "Sürükle: \nyasi = 20\nif (yasi >= 18):\n    print('Oy kullanabilirsiniz.')\nprint('Program bitti.')\n#Oy kullanabilirsiniz.\n",
+    "totalchars": 148,
+    "totallines": 8
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:43:31.526",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 2,
+    "totallines": 2
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:43:34.649",
+    "action": "Sürükle: \nkullaniciAdi = 'Admin'\nkullaniciParola = '123456'\nif (kullaniciAdi == 'Admin'):\n    print('Kullanıcı adı doğru')\n    if (kullaniciParola == '123456'):\n        print('Giriş başarılı.')\n#Kullanıcı adı doğru\n#Giriş başarılı.\n",
+    "totalchars": 234,
+    "totallines": 11
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:43:38.740",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 0,
+    "totallines": 1
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:43:40.709",
+    "action": "Solmenü_Tıkla: Döngüler",
+    "totalchars": 0,
+    "totallines": 1
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:43:46.281",
+    "action": "Sürükle: \nprint(*range(5, 20))\n",
+    "totalchars": 24,
+    "totallines": 3
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:43:48.527",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 4,
+    "totallines": 3
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:43:55.195",
+    "action": "Sürükle: \nfor i in range(1,6):\n    if i ==2 or i==4:\n        continue\n    print(i)\n\n",
+    "totalchars": 85,
+    "totallines": 9
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:44:00.538",
+    "action": "Eylem: Çalıştır",
+    "totalchars": 85,
+    "totallines": 9,
+    "file": "C:/Users/BIDB/Documents/PynarKutu/hhhhhh.py"
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:44:07.002",
+    "action": "Basılan Tuş: LEFT",
+    "totalchars": 85,
+    "totallines": 9
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:44:07.395",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 84,
+    "totallines": 9
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:44:09.028",
+    "action": "Eylem: Kaydet",
+    "totalchars": 84,
+    "totallines": 9
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:44:10.799",
+    "action": "Eylem: Çalıştır",
+    "totalchars": 84,
+    "totallines": 9,
+    "file": "C:/Users/BIDB/Documents/PynarKutu/hhhhhh.py"
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:44:11.903",
+    "action": "Hata",
+    "totalchars": 84,
+    "totallines": 9,
+    "hata listesi": {
+        "hata_1": {
+            "mesaj": "rage ifadesi tanımlı değil",
+            "dosya": "C:\\Users\\BIDB\\Documents\\PynarKutu\\hhhhhh.py",
+            "satir": 3
+        }
+    }
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:44:37.156",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 84,
+    "totallines": 9
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:44:37.424",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 83,
+    "totallines": 9
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:44:45.491",
+    "action": "Basılan Tuş: n",
+    "totalchars": 84,
+    "totallines": 9
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:44:48.326",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 83,
+    "totallines": 9
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:44:50.612",
+    "action": "Eylem: Kaydet",
+    "totalchars": 83,
+    "totallines": 9
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:44:51.991",
+    "action": "Eylem: Çalıştır",
+    "totalchars": 83,
+    "totallines": 9,
+    "file": "C:/Users/BIDB/Documents/PynarKutu/hhhhhh.py"
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:44:53.123",
+    "action": "Hata",
+    "totalchars": 83,
+    "totallines": 9,
+    "hata listesi": {
+        "hata_1": {
+            "mesaj": "contine ifadesi tanımlı değil",
+            "dosya": "C:\\Users\\BIDB\\Documents\\PynarKutu\\hhhhhh.py",
+            "satir": 5
+        },
+        "hata_2": {
+            "mesaj": "İfade değeri kullanılmıyor",
+            "dosya": "C:\\Users\\BIDB\\Documents\\PynarKutu\\hhhhhh.py",
+            "satir": 5
+        }
+    }
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:45:07.384",
+    "action": "Eylem: Çalıştır",
+    "totalchars": 84,
+    "totallines": 9,
+    "file": "C:/Users/BIDB/Documents/PynarKutu/hhhhhh.py"
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:48:11.051",
+    "action": "Eylem: Paket Yöneticisi",
+    "totalchars": 84,
+    "totallines": 9
+},
+{
+    "MachineId": "484124109070",
+    "time": "2024-07-03T12:48:18.439",
+    "action": "Eylem: Ayarlar",
+    "totalchars": 84,
+    "totallines": 9
+}]
