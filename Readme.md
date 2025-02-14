@@ -1,4 +1,4 @@
-Based on the analysis, here are the key findings:
+# Based on the analysis, here are the key findings:
 
 Session Overview:
 
@@ -59,4 +59,4 @@ Progressive complexity in code attempts (from simple prints to loops with condit
 
 
 
-Would you like me to create a visualization of any particular aspect of this analysis, such as the action distribution over time or the error patterns?
+# Would you like me to create a visualization of any particular aspect of this analysis, such as the action distribution over time or the error patterns?
